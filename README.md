@@ -14,13 +14,13 @@ Bonjour, Bonsoir !! Je suis Natalie graphiste à ses heures, geek dans l'âme, j
 # Formations 
 
 * Bac Pro Secrétariat et Comptabilité ( à l'époque les formations dans le "numérique et tout" étaient peu répandus ... ) 
-* Foramation (initiation) Webmaster
+* Formation (initiation) Webmaster
 * Formation Designer Graphiste
 * Simplon FOAD
 
 
 # Le Pourquoi du Comment ???
 
-Toujours en quête de connaissances, Simplon est tombé à pic car il me permet d'avoir une structure pour avancé pas à pas.
+Toujours en quête de connaissances, Simplon est tombé à pic car il me permet d'avoir une structure pour avancer pas à pas.
 
 
